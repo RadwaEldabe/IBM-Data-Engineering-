@@ -1,4 +1,4 @@
-## Answers for peer-reviewed assigment
+-reviewed assigment
 1. There are two types of data repositories – Transactional and Analytical. Transactional systems, also known as Online Transaction Processing (or OLTP) systems, are designed for real-time execution of a large number of database transactions that are taking place simultaneously, typically online. Give two examples of the kind of transactional data for which an OLTP system may be used.
 
    - Room reservation records in hotel reservation system 
